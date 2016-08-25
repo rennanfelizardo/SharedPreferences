@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="titulo_texto">Qual o seu nome?</string>
+    <string name="hint_nome">Digite o seu nome</string>
+    <string name="salvar_botao_texto">Salvar</string>
+    <string name="usuario_nao_definido_texto">usuário não definido</string>
+    <string name="reset_botao_texto">Reset</string>
+</resources>
